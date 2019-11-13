@@ -12,4 +12,11 @@ Board games have regained popularity in recent years, they make it possible to e
 
 - The file "Capstone Project 2 Dataset.ipynb" is the code used to build the dataset using scraping and APIs on the website: https://boardgamegeek.com
 
-- The file "Capstone Project 2_Presentation is a presentation of the project spread over a few slides.
+- The file "Capstone Project 2_Presentation.pdf" is a presentation of the project spread over a few slides.
+
+
+Intermediate steps:
+
+- The file "Capstone Project 2 Project Proposal.pdf" reports the project proposal.
+
+- The file "Capstone Project 2 Milestone Report.pdf" reports the project proposal, the description of the data wrangling steps choosen to clean datasets, the resulting visualizations and conclusions about the datasets and the steps and findings of the inferential statistical analysis.
