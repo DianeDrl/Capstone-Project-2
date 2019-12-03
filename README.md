@@ -1,6 +1,6 @@
 # Capstone-Project-2
 
-## Prediction of board game rates based on their reviews 
+## Prediction of board game ratings based on their reviews 
 
 Board games have regained popularity in recent years, they make it possible to entertain many afternoons with family or evenings with friends during hours. 
 
